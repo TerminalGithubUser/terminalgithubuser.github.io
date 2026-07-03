@@ -1,4 +1,4 @@
-I am a games programmer, desginer and VFX artist with experience in using Unity and Unreal Engine.
+I am a games programmer, designer and VFX artist with experience in using Unity and Unreal Engine.
 
 # Bounced Out!
 
