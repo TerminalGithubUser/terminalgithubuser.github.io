@@ -1,6 +1,4 @@
-# Portfolio
-
-## Bounced Out!
+# Bounced Out!
 
 {% include youtube.html id="oNZ8cWbAkog" %}
 
