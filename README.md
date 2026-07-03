@@ -1,6 +1,10 @@
-# Nikolai Slater
+---
+layout: default
+---
 
-## Bounced Out!
+I am a games programmer, desginer and VFX artist with experience in using Unity and Unreal Engine.
+
+# Bounced Out!
 
 {% include youtube.html id="oNZ8cWbAkog" %}
 
