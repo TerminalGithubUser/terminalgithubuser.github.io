@@ -6,7 +6,7 @@ I am a games programmer, designer and VFX artist with experience in using Unity 
 
 In Bounced Out! go at it alone or team up with a friend to staff "The Pound", a chaotic nightclub. As bouncers: check IDs, diffuse situations, fight customers and avoid getting fired by your boss "Mad Dog".
 
-This was my third year university group project with a team of 4 others. I played the role of the main gameplay programmer, VFX artist, designer, audio designer and did some minor jobs in UI art and 3D modelling.
+This was my third year university group project with a team of 4 others. I played the role of the main gameplay programmer, VFX artist, animator, designer, audio designer and did some minor jobs in UI art and 3D modelling.
 
 Bounced Out! can be found on [itch.io](https://16slaten.itch.io/bounced-out) and will soon be able to be found on steam. This game is still in ongoing development.
 
@@ -18,4 +18,10 @@ At Falmouth University Games Expo 2026, Bounced Out! was one of two runners up f
 
 In Stygian, play as a lost soul on the river Styx attempting to escape the afterlife and return to the mortal world.
 
-Stygian was my second year university project in a team of 8 people. I played similar roles as with Bounced Out! - I was the main gameplay programmer, VFX artist, designer, audio designer and did some minor jobs in UI art and 3D modelling.
+Stygian was my second year university project in a team of 8 people. I played similar roles as with Bounced Out! - I was the main gameplay programmer, VFX artist, animator, designer, audio designer and did some minor jobs in UI art and 3D modelling.
+
+# Brawler Project
+
+{% include youtube.html id="jkSjy8k7Vc8" %}
+
+This project was a Brawler game style boss fight I made with inspiration from the Yakuza games. It shares features with them, like a basic implementation of the heat action function. All the assets in this project, bar animations and a number of the sound effects, were made by me.
