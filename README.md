@@ -1,4 +1,6 @@
-I am a games programmer, designer and VFX artist with experience in using Unity and Unreal Engine.
+I am a games programmer, designer and VFX artist with experience in using Unity and Unreal Engine. I have been using Unity since 2017 and have experience with a number of popular external packages for Unity, like Photon Unity Networking.
+
+I also have experience outside of games development as a programmer, having worked on some graphics programming tasks, like a raycaster for rendering 3D objects.
 
 # Bounced Out!
 
