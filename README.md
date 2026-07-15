@@ -27,3 +27,15 @@ Stygian was my second year university project in a team of 8 people. I played si
 {% include youtube.html id="jkSjy8k7Vc8" %}
 
 This project was a Brawler game style boss fight I made with inspiration from the Yakuza games. It shares features with them, like a basic implementation of the heat action function. All the assets in this project, bar animations and a number of the sound effects, were made by me.
+
+# Simple Raycaster
+
+![Raycaster Screenshot](Raycaster.png)
+
+THis project was a 2nd year university project wherein a basic raycaster is used to render 3D models. Models are limited to being in a solid colour with no shading. This method of rendering needs to be relatively low resolution for performance reasons.
+
+# OpenGL Renderer
+
+![OpenGL Screenshot](OpenGL.png)
+
+This was a project in which OpenGL was used to render 3D models with textures. In this case, the models where a cube with a crate texture and a blender monkey with a very simple drawn texture for testing. Models are limited to only the basic texture without a normal map or specular map in this case. This also lacks the ability to use shading, the enviornment is rendered with every object fully lit.
