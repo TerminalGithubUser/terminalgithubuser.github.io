@@ -32,10 +32,10 @@ This project was a Brawler game style boss fight I made with inspiration from th
 
 ![Raycaster Screenshot](Raycaster.png)
 
-THis project was a 2nd year university project wherein a basic raycaster is used to render 3D models. Models are limited to being in a solid colour with no shading. This method of rendering needs to be relatively low resolution for performance reasons.
+This project was a 2nd year university project wherein a basic raycaster is used to render 3D models. Models are limited to being in a solid colour with no shading. This method of rendering needs to be relatively low resolution for performance reasons.
 
 # OpenGL Renderer
 
 ![OpenGL Screenshot](OpenGL.png)
 
-This was a project in which OpenGL was used to render 3D models with textures. In this case, the models where a cube with a crate texture and a blender monkey with a very simple drawn texture for testing. Models are limited to only the basic texture without a normal map or specular map in this case. This also lacks the ability to use shading, the enviornment is rendered with every object fully lit.
+This was a 3rd year university project in which OpenGL was used to render 3D models with textures. In this case, the models were a cube with a crate texture and a blender monkey with a very simple drawn texture for testing. Models are limited to only the basic texture without a normal map or specular map in this case. This also lacks the ability to use shading, the enviornment is rendered with every object fully lit.
